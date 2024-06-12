@@ -1,0 +1,18 @@
+:root {
+    --p-clr: hsl(0, 5%, 10%);
+    --s-clr: hsl(0, 0%, 90%);
+    --bp-clr: hsl(225, 100%, 25%);
+    --bs-clr: hsl(194, 100%, 54%);
+    --z-clr: hsl(250, 100%, 50%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--bp-clr) !important;
+}
