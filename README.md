@@ -17,6 +17,11 @@ You can install the following Libraries:
 ## Usage
 
 You can clone my project here:
+[[clone](https://github.com/Sy-An-C/Portfolio.git)]
+
+``` bash 
+
+git clone https://github.com/Sy-An-C/Portfolio.git
 
 ## License
 
