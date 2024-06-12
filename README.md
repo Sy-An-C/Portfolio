@@ -11,18 +11,18 @@ navigation bug, responsive design low, animated design low, simple design, littl
 ## Installation
 
 You can install the following Libraries:
-- [[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/)]
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/)
 - [JQuery](https://jquery.com/download/)
 
 ## Usage
 
-You can clone my project here:
-[[clone](https://github.com/Sy-An-C/Portfolio.git)]
+You can clone my project here: [clone](https://github.com/Sy-An-C/Portfolio.git)
 
 ``` bash 
 
 git clone https://github.com/Sy-An-C/Portfolio.git
 
+```
 ## License
 
 [SAC](https://github.com/Sy-An-C) 
